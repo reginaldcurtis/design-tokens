@@ -36,5 +36,9 @@
         "$value": "#7b341e"
       }
     }
+  },
+  "--brand-primary": {
+    "$type": "color",
+    "$value": "hsl(246, 39%, 42%)"
   }
 }

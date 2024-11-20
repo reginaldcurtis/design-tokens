@@ -1,6 +1,5 @@
 {
   "dimensions": {
-    "$type": "dimension",
     "0": {
       "$value": "0px"
     },
@@ -49,6 +48,7 @@
     "15": {
       "$value": "60px"
     },
+    "$type": "dimension",
     "max": {
       "$value": "9999px"
     }
