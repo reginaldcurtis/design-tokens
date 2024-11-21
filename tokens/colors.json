@@ -40,5 +40,9 @@
   "--brand-primary": {
     "$type": "color",
     "$value": "hsl(246, 39%, 42%)"
+  },
+  "--primary-reward-link": {
+    "$type": "color",
+    "$value": "#000"
   }
 }
