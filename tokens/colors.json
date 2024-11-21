@@ -44,5 +44,9 @@
   "--primary-reward-link": {
     "$type": "color",
     "$value": "#000"
+  },
+  "--primary-tango-portal": {
+    "$type": "color",
+    "$value": "#000"
   }
 }
